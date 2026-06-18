@@ -3,8 +3,8 @@
 </p>
 <div align="center">
 
-
-# Tunee 
+<h1>
+<img src="images/ic_tunee_logo.png" width="35" alt="Tunee Logo"> Tunee</h1>
 
 ### Your Music. Your Vibe.
 
