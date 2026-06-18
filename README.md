@@ -3,7 +3,6 @@
 </p>
 <div align="center">
 
-<img src="images/ic_tunee_logo.png" width="120" alt="Tunee Logo"/>
 
 # Tunee 
 
